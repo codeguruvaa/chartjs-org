@@ -1,0 +1,26 @@
+export var UserData = [
+    {
+        id:1,
+        year:2014,
+        userGain:9999,
+        userLost:4789
+    },
+    {
+        id:3,
+        year:2017,
+        userGain:1249,
+        userLost:4789
+    },
+    {
+        id:4,
+        year:2019,
+        userGain:2489,
+        userLost:4789
+    },
+    {
+        id:5,
+        year:2024,
+        userGain:3459,
+        userLost:4789
+    },
+]
